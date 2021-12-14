@@ -40,7 +40,7 @@ which means we can ship another DLL that just by including in your application
 will add functionality to VPE.
 
 More concretely, we include a bridge library that allows you to render VPE in
-Unity. More on that [here](VisualPinball.Unity).
+Unity. 
 
 ## Current Status
 
@@ -54,7 +54,3 @@ There are a few videos in the [VPF thread](https://www.vpforums.org/index.php?sh
 <a title="IntelliJ IDEA" href="https://www.jetbrains.com/idea/"><img src="https://raw.githubusercontent.com/vpdb/server/master/assets/intellij-logo-text.svg?sanitize=true" alt="IntelliJ IDEA" width="250"></a>
 
 Special thanks go to JetBrains for their awesome IDE and support of the Open Source Community!
-
-## License
-
-GPLv2, see [LICENSE](LICENSE).
